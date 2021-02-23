@@ -1,0 +1,1 @@
+(this.webpackJsonpadmin=this.webpackJsonpadmin||[]).push([[355],{976:function(e,t,n){"use strict";n.r(t);var i=n(472),a=["name","type","many","required"];t.default={title:"Algorithm Parameter",actions:{new:{fields:a,seed:{language:"ruby"}},edit:{fields:a}},fields:{type:{control:i.a,controlProps:{options:["integer","boolean","number","string","object"]}}}}}}]);

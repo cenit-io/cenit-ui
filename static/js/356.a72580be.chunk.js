@@ -1,0 +1,1 @@
+(this.webpackJsonpadmin=this.webpackJsonpadmin||[]).push([[356],{988:function(i,n,e){"use strict";e.r(n);e(289);n.default={title:"Call Link",actions:{edit:{fields:["name","link"]}},fields:{name:{readOnly:!0}}}}}]);

@@ -1,0 +1,1 @@
+(this.webpackJsonpadmin=this.webpackJsonpadmin||[]).push([[358],{992:function(e,i,t){"use strict";t.r(i);var s=["label","type","many","required","description","properties_locations"];i.default={title:"Pull Parameter",actions:{new:{fields:s},edit:{fields:s}}}}}]);

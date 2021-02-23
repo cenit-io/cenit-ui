@@ -1,0 +1,1 @@
+(this.webpackJsonpadmin=this.webpackJsonpadmin||[]).push([[366],{1030:function(t,i,e){"use strict";e.r(i);var n=["property_name","location"];i.default={title:"Property location",actions:{new:{fields:n},edit:{fields:n}}}}}]);
